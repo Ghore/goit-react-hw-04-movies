@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+}
+.navigation{
+    list-style: none;
+    display: flex;
+}
+.navigationListItem{
+    padding-right: 5px ;
+}

@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+}
+.Contentwrapper{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.genres{
+    list-style: none;
+}

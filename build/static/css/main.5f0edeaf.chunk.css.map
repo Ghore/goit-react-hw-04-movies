@@ -1,0 +1,1 @@
+{"version":3,"sources":["nav.module.css"],"names":[],"mappings":"AAAA,EACI,oBACJ,CACA,uBACI,eAAgB,CAChB,YACJ,CACA,+BACI,iBACJ","file":"main.5f0edeaf.chunk.css","sourcesContent":["a{\r\n    text-decoration: none;\r\n}\r\n.navigation{\r\n    list-style: none;\r\n    display: flex;\r\n}\r\n.navigationListItem{\r\n    padding-right: 5px ;\r\n}"]}
